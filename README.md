@@ -1,2 +1,2 @@
 # hospital
-a hospital website,
+a hospital website.
